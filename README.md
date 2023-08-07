@@ -1,1 +1,1 @@
-# NLP
+Code folder has all the implementtion files(.py and .ipynb files). Data folder has the dataset used.
